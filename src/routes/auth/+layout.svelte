@@ -1,0 +1,5 @@
+<div>
+	layout
+
+	<slot />
+</div>
